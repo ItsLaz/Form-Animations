@@ -45,6 +45,8 @@ form {
   top: 0;
   border: none;
   outline: none;
+  color: #777474;
+  font-size: 0.7rem;
 }
 .input-container {
   position: relative;
@@ -56,6 +58,7 @@ form {
   padding: 0.3rem 0;
   font-size: 0.75rem;
   opacity: 0.6;
+  transform-origin: left;
 }
 .line-svg {
   position: absolute;
